@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#152C3F"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:padding="35dp"
+        android:src="@drawable/img_5"
+        tools:ignore="UselessParent" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:weightSum="6"
+        android:layout_weight="5"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/homeMenu"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:padding="30dp"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:layout_weight="1"
+            >
+            
+            <ImageView
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:src="@drawable/img_6"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Home"
+                android:layout_marginLeft="30dp"
+                android:textColor="@color/white"
+                android:textSize="20sp"
+                />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/popularMenu"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:padding="30dp"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:layout_weight="1"
+            >
+
+            <ImageView
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:src="@drawable/img_8"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Popular"
+                android:layout_marginLeft="30dp"
+                android:textColor="@color/white"
+                android:textSize="20sp"
+                />
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/randomMenu"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:padding="30dp"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:layout_weight="1"
+            >
+
+            <ImageView
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:src="@drawable/img_9"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Random"
+                android:layout_marginLeft="30dp"
+                android:textColor="@color/white"
+                android:textSize="20sp"
+                />
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/likeMenu"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:padding="30dp"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:layout_weight="1"
+            >
+
+            <ImageView
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:src="@drawable/img_10"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Liked"
+                android:layout_marginLeft="30dp"
+                android:textColor="@color/white"
+                android:textSize="20sp"
+                />
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/historyMenu"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:padding="30dp"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:layout_weight="1"
+            >
+
+            <ImageView
+                android:layout_width="19dp"
+                android:layout_height="27dp"
+                android:src="@drawable/img_11" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="History"
+                android:layout_marginLeft="30dp"
+                android:textColor="@color/white"
+                android:textSize="20sp"
+                />
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/about"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:padding="30dp"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:layout_weight="1"
+            >
+
+            <ImageView
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:src="@drawable/img_12"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="About"
+                android:layout_marginLeft="30dp"
+                android:textColor="@color/white"
+                android:textSize="20sp"
+                />
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="200dp"
+        android:layout_height="150dp"
+        android:padding="20dp"
+        android:src="@drawable/img_7"
+        />
+
+</LinearLayout>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/img"
+        android:title="text1"
+        />
+    <item
+        android:id="@+id/popularFragment"
+        android:icon="@drawable/img_1"
+        android:title="text2"
+        />
+    <item
+        android:id="@+id/randomFragment"
+        android:icon="@drawable/img_2"
+        android:title="text3" />
+
+    <item
+        android:id="@+id/likeFragment"
+        android:icon="@drawable/img_3"
+        android:title="text4" />
+
+</menu>

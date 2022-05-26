@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/Wallpapers/app/src/main/res/drawable/custome_buttom_view.xml" value="0.1755" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Wallpapers/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.1345" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Wallpapers/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.1345" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Wallpapers/app/src/main/res/drawable/tab_item_oval.xml" value="0.1345" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Wallpapers/app/src/main/res/layout/activity_main.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Wallpapers/app/src/main/res/layout/fragment_adapter.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Wallpapers/app/src/main/res/layout/fragment_home.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Wallpapers/app/src/main/res/layout/fragment_like.xml" value="0.1796875" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Wallpapers/app/src/main/res/layout/fragment_photo_view.xml" value="0.14749893116716545" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Wallpapers/app/src/main/res/layout/fragment_popular.xml" value="0.1796875" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Wallpapers/app/src/main/res/layout/fragment_random.xml" value="0.1796875" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Wallpapers/app/src/main/res/layout/item_rv.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Wallpapers/app/src/main/res/layout/nav_header.xml" value="0.14749893116716545" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Wallpapers/app/src/main/res/layout/tab_item.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Wallpapers/app/src/main/res/menu/menu.xml" value="0.1796875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
